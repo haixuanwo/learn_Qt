@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BOARD.BMP</file>
+        <file>res/heng.png</file>
+    </qresource>
+</RCC>
